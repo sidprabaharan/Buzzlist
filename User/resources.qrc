@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/placeholder.jpg</file>
+        <file>images/stages_nightclub.jpg</file>
+        <file>images/trinity_social.jpg</file>
+    </qresource>
+</RCC>
